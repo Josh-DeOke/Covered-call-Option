@@ -1,13 +1,14 @@
-# Sample Hardhat Project
+# Covered-call Smart-contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project has been tested on a local hardhat network and deployed deployed to the Goerli Testnet.
 
-Try running some of the following tasks:
+Following libraries have been used to build it:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+- Hardhat
+- Ethers.js
+- Solium
+
+Deployed Contract URL:
+https://goerli.etherscan.io/address/0x434816594d01846a6f57e39a81c1b3de98676857
+
+
